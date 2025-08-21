@@ -1,0 +1,272 @@
+﻿<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<title></title>
+<STYLE ID="htmldw_stylesheet" TYPE="text/css">
+<!--
+.htmldwA18{}
+.htmldwA19{background-color:#c0dcc0; width:100%}
+.htmldwA1A{COLOR:#000000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none;TEXT-ALIGN:center;padding:0px;BORDER-STYLE:none}
+.htmldwA20{COLOR:#000000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none;TEXT-ALIGN:left;padding:0px;BORDER-STYLE:none}
+.htmldwA2B{}
+.htmldwA2C{COLOR:#000000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none;TEXT-ALIGN:left;padding:0px;BORDER-STYLE:none}
+.htmldwA2E{COLOR:#000000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none;TEXT-ALIGN:center;padding:0px;BORDER-STYLE:none}
+.htmldwA2F{COLOR:#000000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:normal;TEXT-DECORATION:none;TEXT-ALIGN:right;padding:0px;BORDER-STYLE:none}
+.htmldwA75{COLOR:#000000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:bold;TEXT-DECORATION:none;TEXT-ALIGN:center;padding:0px;BORDER-STYLE:none}
+.htmldwA79{COLOR:#000000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:bold;TEXT-DECORATION:none;TEXT-ALIGN:right;padding:0px;BORDER-STYLE:none}
+.htmldwA87{COLOR:#ff0000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:bold;TEXT-DECORATION:none;TEXT-ALIGN:center;padding:0px;BORDER-STYLE:none}
+.htmldwA8B{COLOR:#ff0000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:bold;TEXT-DECORATION:none;TEXT-ALIGN:right;padding:0px;BORDER-STYLE:none}
+.htmldwAF3{COLOR:#ff0000;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:bold;TEXT-DECORATION:none;TEXT-ALIGN:center;padding:0px;BORDER-STYLE:none;VISIBILITY:hidden}
+.htmldwAF7{COLOR:#0000ff;FONT:9pt "微軟正黑體", sans-serif;FONT-STYLE:normal;FONT-WEIGHT:bold;TEXT-DECORATION:none;TEXT-ALIGN:right;padding:0px;BORDER-STYLE:none}
+-->
+</STYLE>
+
+<TABLE CLASS=htmldwA18 BORDER=0 WIDTH=1419>
+
+<TR CLASS=htmldwA19>
+    <TH CLASS=htmldwA1A WIDTH=77>時間</TH>
+    <TH CLASS=htmldwA1A WIDTH=154>品　種</TH>
+    <TH CLASS=htmldwA1A WIDTH=11>單位</TH>
+    <TH CLASS=htmldwA1A WIDTH=55>單價</TH>
+    <TH CLASS=htmldwA1A WIDTH=33>數量</TH>
+    <TH CLASS=htmldwA1A WIDTH=55>金額</TH>
+    <TH CLASS=htmldwA20 ALIGN=left WIDTH=33>折扣率</TH>
+    <TH CLASS=htmldwA1A WIDTH=110>備　註</TH>
+    <TH CLASS=htmldwA1A WIDTH=66>類別</TH>
+    <TH CLASS=htmldwA1A WIDTH=44>點菜員</TH>
+    <TH CLASS=htmldwA1A WIDTH=44>收銀員</TH>
+    <TH CLASS=htmldwA1A WIDTH=154>發票</TH>
+    <TH CLASS=htmldwA1A WIDTH=154>收款</TH>
+    <TH CLASS=htmldwA1A WIDTH=110>贈送原因</TH>
+    <TH CLASS=htmldwA1A WIDTH=121 x:str>口味/作法</TH>
+    <TH CLASS=htmldwA1A WIDTH=99>卡號</TH>
+    <TH CLASS=htmldwA1A WIDTH=99>禮券編號</TH>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=77 x:str>07/26 00:03:01</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>七星藍莓5毫克</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=11>包</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=33>1.</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=33>100</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=66>菸品</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44>蔡萱</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>                                                                                                              </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>                                                                                                             </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=121></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99>                           </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99>                           </TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=77 x:str>07/26 00:04:37</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>雲絲頓天香3毫克</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=11>包</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=33>1.</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=33>100</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=66>菸品</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44>蔡萱</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>                                                                                                              </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>                                                                                                             </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=121></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99>                           </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99>                           </TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=77 x:str>07/26 00:31:13</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>雲絲頓天香5毫克</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=11>包</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=33>1.</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=33>100</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=66>菸品</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44>蔡萱</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>                                                                                                              </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>                                                                                                             </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=121></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99>                           </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99>                           </TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=77 x:str>07/26 01:59:30</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>七星藍莓5毫克</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=11>包</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=33>1.</TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=33>100</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=66>菸品</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44>蔡萱</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>                                                                                                              </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>                                                                                                             </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=121></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99>                           </TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99>                           </TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD WIDTH=77></TD>
+    <TD NOWRAP CLASS=htmldwA75 ALIGN=center WIDTH=154>酒水 小計</TD>
+    <TD WIDTH=11></TD>
+    <TD WIDTH=55></TD>
+    <TD WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA79 ALIGN=right WIDTH=55>800.</TD>
+    <TD WIDTH=33></TD>
+    <TD WIDTH=110></TD>
+    <TD WIDTH=66></TD>
+    <TD WIDTH=44></TD>
+    <TD WIDTH=44></TD>
+    <TD WIDTH=154></TD>
+    <TD WIDTH=154></TD>
+    <TD WIDTH=110></TD>
+    <TD WIDTH=121></TD>
+    <TD WIDTH=99></TD>
+    <TD WIDTH=99></TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD WIDTH=77></TD>
+    <TD NOWRAP CLASS=htmldwA87 ALIGN=center WIDTH=154>本單實收金額合計:</TD>
+    <TD WIDTH=11></TD>
+    <TD WIDTH=55></TD>
+    <TD WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA8B ALIGN=right WIDTH=55>800.</TD>
+    <TD WIDTH=33></TD>
+    <TD WIDTH=110></TD>
+    <TD WIDTH=66></TD>
+    <TD WIDTH=44></TD>
+    <TD WIDTH=44></TD>
+    <TD WIDTH=154></TD>
+    <TD WIDTH=154></TD>
+    <TD WIDTH=110></TD>
+    <TD WIDTH=121></TD>
+    <TD WIDTH=99></TD>
+    <TD WIDTH=99></TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=77 x:str>07/26 00:03:02</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>現金</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=11></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=66></TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44></TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44 x:str>0215</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>發票金額:0  發票號:</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>收款:200找零0.00</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=121></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99></TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=77 x:str>07/26 00:04:38</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>現金</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=11></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=66></TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44></TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44 x:str>0215</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>發票金額:0  發票號:</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>收款:200找零0.00</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=121></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99></TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=77 x:str>07/26 00:31:14</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>現金</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=11></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=66></TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44></TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44 x:str>0215</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>發票金額:0  發票號:</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>收款:200找零0.00</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=121></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99></TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=77 x:str>07/26 01:59:31</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>現金</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=11></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA2F ALIGN=right WIDTH=55>200</TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=66></TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44></TD>
+    <TD NOWRAP CLASS=htmldwA2E ALIGN=center WIDTH=44 x:str>0215</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>發票金額:0  發票號:</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=154>收款:200找零0.00</TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=110></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=121></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99></TD>
+    <TD NOWRAP CLASS=htmldwA2C WIDTH=99></TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD WIDTH=77></TD>
+    <TD NOWRAP CLASS=htmldwA75 ALIGN=center WIDTH=154>結帳 小計</TD>
+    <TD WIDTH=11></TD>
+    <TD WIDTH=55></TD>
+    <TD WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwA79 ALIGN=right WIDTH=55>800.</TD>
+    <TD WIDTH=33></TD>
+    <TD WIDTH=110></TD>
+    <TD WIDTH=66></TD>
+    <TD WIDTH=44></TD>
+    <TD WIDTH=44></TD>
+    <TD WIDTH=154></TD>
+    <TD WIDTH=154></TD>
+    <TD WIDTH=110></TD>
+    <TD WIDTH=121></TD>
+    <TD WIDTH=99></TD>
+    <TD WIDTH=99></TD>
+</TR>
+<TR CLASS=htmldwA2B>
+    <TD WIDTH=77></TD>
+    <TD NOWRAP CLASS=htmldwAF3 ALIGN=center Style='visibility:hidden;' WIDTH=154>         </TD>
+    <TD WIDTH=11></TD>
+    <TD WIDTH=55></TD>
+    <TD WIDTH=33></TD>
+    <TD NOWRAP CLASS=htmldwAF7 ALIGN=right WIDTH=55>800.</TD>
+    <TD WIDTH=33></TD>
+    <TD WIDTH=110></TD>
+    <TD WIDTH=66></TD>
+    <TD WIDTH=44></TD>
+    <TD WIDTH=44></TD>
+    <TD WIDTH=154></TD>
+    <TD WIDTH=154></TD>
+    <TD WIDTH=110></TD>
+    <TD WIDTH=121></TD>
+    <TD WIDTH=99></TD>
+    <TD WIDTH=99></TD>
+</TR>
+</TABLE>
+</html>
